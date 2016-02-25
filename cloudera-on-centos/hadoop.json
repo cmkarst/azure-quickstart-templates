@@ -44,19 +44,18 @@
       "type": "string",
       "defaultValue": "westeurope",
       "allowedValues": [
-        "westus",
-        "eastus",
-        "northeurope", 
-        "westeurope",
-        "eastasia",
-        "southeastasia",
-        "southcentralus",
-        "centralus",
-        "eastus2",
-        "japaneast",
-        "japanwest",
-        "australiaeast",
-        "australiasoutheast"
+        "west us",
+        "east us",
+        "north europe", 
+        "west europe",
+        "east asia",
+        "southeast asia",
+        "south centralus",
+        "central us",
+        "japan east",
+        "japan west",
+        "australia east",
+        "australia southeast"
       ],
       "metadata": {
         "description": "Location where resources will be provisioned (must support premium storage)"
